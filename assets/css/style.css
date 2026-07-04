@@ -121,12 +121,63 @@ nav ul li a {
     display: block;
 }
 /*SoC Picture*/
-.pic1_1 {
-    grid-column: span 1 ;
-    grid-row: span 1;
+.pic1_1 img{
+    width: 200px;
+    height: auto;
 }
 
-.pic1_2 {
-    grid-column: span 2 ;
-    grid-row: span 2;
+.pic1_2 img{
+    width: 520px;
+    height: auto;
+}
+
+.pic1_3 img {
+    width: 200px;
+    height: auto;
+}
+
+.pic1_4 img {
+    width: 520px;
+    height: auto;
+}
+
+
+.DIC {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap:30px;
+}
+
+.pic2_1 img {
+    width: 300px;
+    height: auto;
+}
+
+.pic2_2 img {
+    width: 400px;
+    height: auto;
+}
+
+.IoT {
+    text-align: center;
+}
+
+.IoT_1 img {
+    width: 300px;
+    height: auto;
+}
+
+.IoT_2 img {
+    width: 500px;
+    height: auto;
+}
+
+.IoT_3 img {
+    width: 400px;
+    height: auto;
+}
+.IoT_4 img {
+    width: 500px;
+    height: auto;
 }
